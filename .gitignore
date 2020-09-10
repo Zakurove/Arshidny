@@ -1,0 +1,9 @@
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+media
+arshidny/settings.py
+settings.py
+settings
